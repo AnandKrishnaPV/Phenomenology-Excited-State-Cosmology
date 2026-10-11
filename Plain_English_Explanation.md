@@ -1,5 +1,6 @@
 # The Excited-State Universe: A Plain-English Guide
-**Author:** Anand Krishna P V  
+**Authors:** Anand Krishna P V$^1$, M. Siva Parvathi$^2$  
+**Affiliations:** $^1$Independent Researcher; $^2$Dept. of Applied Mathematics, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh, India (ORCID: [0000-0002-4116-7101](https://orcid.org/0000-0002-4116-7101))  
 **Based on the paper:** *Phenomenology of an Excited-State Cosmological Framework: Dark Matter and CMB Constraints*
 
 ---
